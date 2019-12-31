@@ -1,4 +1,4 @@
-def monopoly
+def base_hash
   monopoly = {
     railroads: {}
   }
@@ -64,3 +64,4 @@ def monopoly_with_fourth_tier
     }
   }
 end
+
